@@ -1,10 +1,17 @@
-# Zion AI Prompt Router
+# Zion AI Prompt Router — Zion App Network
 
-Intelligent LLM model routing and cost arbitrage.
+Zion AI Prompt Router — intelligent LLM model routing, cost arbitrage and fallback orchestration. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-model-router](https://github.com/Zion-support/zion-model-router) · [zion-ai-gateway](https://github.com/Zion-support/zion-ai-gateway) · [llm-gateway](https://github.com/Zion-support/llm-gateway) · [zion-ai-finops](https://github.com/Zion-support/zion-ai-finops) · [zion-ai-prompt-vault-pro](https://github.com/Zion-support/zion-ai-prompt-vault-pro)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-prompt-router](https://ziontechgroup.com/zion-ai-prompt-router)
+- 🏠 Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Gateway](https://github.com/Zion-support/zion-ai-gateway) — unified LLM API gateway
+- [Zion AI Prompt Forge](https://github.com/Zion-support/zion-ai-prompt-forge) — build and version prompts
+- [Zion AI Prompt Vault Pro](https://github.com/Zion-support/zion-ai-prompt-vault-pro) — versioned prompt registry
+- [Zion AI FinOps](https://github.com/Zion-support/zion-ai-finops) — LLM cost and token optimization
+- [Zion AI Model Arena](https://github.com/Zion-support/zion-ai-model-arena) — compare LLMs
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
